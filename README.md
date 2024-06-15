@@ -17,6 +17,9 @@ Decompression: To decompress the file, I read the Huffman tree structure from th
 
 By using Huffman trees for compression, I achieve significant file size reduction, especially with files containing many repetitive characters. This method ensures that no data is lost, providing a perfect balance between efficiency and accuracy. This project not only deepened my understanding of data compression but also showcased the practical applications of algorithms in real-world scenarios.
 
+![image](https://github.com/saurabh13113/huffman-compressor-tree-/assets/107759922/0b24d9cb-7700-48cb-ab60-1a7d37d4d979)
+![image](https://github.com/saurabh13113/huffman-compressor-tree-/assets/107759922/8beeee91-6a71-44bd-9d11-a974282d8ae2)
+
 CITATIONS:
 1.https://www.csfieldguide.org.nz/en/interactives/huffman-tree/
  To better understand HuffmanTrees and visualize them and confirm that the Huffman-trees being built are right.
